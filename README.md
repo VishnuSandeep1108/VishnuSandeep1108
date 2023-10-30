@@ -6,7 +6,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m a senior at IIIT Agartala and passionate for building web applications.
+- :telescope: I’m a senior at IIIT Agartala and passionate about building web applications.
 
 - :seedling: Some technologies I have worked with include ReactJS, NodeJS, ExpressJS, MongoDB, MySQL.
 
